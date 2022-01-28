@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PopularMoviesStageOne</string>
+    <string name="error">Error fetching data: No network connection</string>
+    <string name="rating">Rating: </string>
+    <string name="release_date">Released: </string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="favourites">Favourites</string>
+    <string name="trailers">Trailers</string>
+    <string name="traier_btn">Play Trailer</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_favourites">Favourited movies will be shown here</string>
+
+    <!-- Content descriptions-->
+    <string name="movie_poster_content_description">Movie picture</string>
+</resources>
